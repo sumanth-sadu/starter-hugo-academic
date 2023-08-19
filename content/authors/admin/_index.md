@@ -82,5 +82,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! This is Sumanth Sadu, a Graduate Student at University of Southern California pursing Computer Science. I believe that every movement in universe is planned and organised, which always leads me to be motivated for future steps which I take. I also believe, learning to be evergoing process and fundamental principle of life. My interests lies in the field of Machine Learning (NLP, CV), Software Development, Data Science, and Research, which are currently shaping the world for a better society. These advancements are bridging the gap between seemingly unrelated domains like Physics, Communication, Arts and even Sociology!. I am very much excited to do my part of contribution for healthier civilization.
+
 {style="text-align: justify;"}
