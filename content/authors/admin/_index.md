@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:venkatasaisumanth.sadu@usc.edu
+    link: mailto:vsadu@usc.edu
     # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  - icon: graduation-cap 
 #    icon_pack: fas
