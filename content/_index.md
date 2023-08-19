@@ -47,7 +47,7 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  - block: education
+  - block: experience
       id: education
       content:
         title: Education
