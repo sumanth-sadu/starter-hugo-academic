@@ -51,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:kesanapa@usc.edu
+    link: mailto:venkatasaisumanth.sadu@usc.edu
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -63,10 +63,10 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/ksanu1998
+    link: [https://github.com/ksanu1998](https://github.com/sumanth-sadu)
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/ksanu1998
+    link: [https://www.linkedin.com/in/ksanu1998](https://www.linkedin.com/in/sumanthsadu/)
 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
